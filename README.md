@@ -1,4 +1,4 @@
-# Exper System: Intentor Design 
+# Intentor Design 
 "It can be very difficult for a user to choose among all of the colors and shapes available in the design field for rooms, and homes.
 We developed an artificial intelligence system for that because technology is becoming more important in our lives and helps us make decisions efficiently.
 The system will determine the appropriate hue based on the user's specifications of their features.
